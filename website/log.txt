@@ -1,0 +1,589 @@
+Array
+(
+    [file-upload] => Array
+        (
+            [name] => 4.jpeg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php24EA.tmp
+            [error] => 0
+            [size] => 6219
+        )
+
+)
+C:\xampp\tmp\php24EA.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => 3.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpAAE4.tmp
+            [error] => 0
+            [size] => 36549
+        )
+
+)
+C:\xampp\tmp\phpAAE4.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => 3.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php9777.tmp
+            [error] => 0
+            [size] => 36549
+        )
+
+)
+C:\xampp\tmp\php9777.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => 2.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpEAB0.tmp
+            [error] => 0
+            [size] => 26261
+        )
+
+)
+C:\xampp\tmp\phpEAB0.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => 3.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php9876.tmp
+            [error] => 0
+            [size] => 36549
+        )
+
+)
+C:\xampp\tmp\php9876.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => 2.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php7C2C.tmp
+            [error] => 0
+            [size] => 26261
+        )
+
+)
+C:\xampp\tmp\php7C2C.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => main.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpD4E2.tmp
+            [error] => 0
+            [size] => 656056
+        )
+
+)
+C:\xampp\tmp\phpD4E2.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => 3.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpE36B.tmp
+            [error] => 0
+            [size] => 36549
+        )
+
+)
+C:\xampp\tmp\phpE36B.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => main.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpA8EA.tmp
+            [error] => 0
+            [size] => 656056
+        )
+
+)
+C:\xampp\tmp\phpA8EA.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => main.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpF1A7.tmp
+            [error] => 0
+            [size] => 656056
+        )
+
+)
+C:\xampp\tmp\phpF1A7.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => skt.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpDF83.tmp
+            [error] => 0
+            [size] => 1842035
+        )
+
+)
+C:\xampp\tmp\phpDF83.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => skt.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpC512.tmp
+            [error] => 0
+            [size] => 1842035
+        )
+
+)
+C:\xampp\tmp\phpC512.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => skt.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php5ADA.tmp
+            [error] => 0
+            [size] => 1842035
+        )
+
+)
+C:\xampp\tmp\php5ADA.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => skt.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpE04E.tmp
+            [error] => 0
+            [size] => 1842035
+        )
+
+)
+C:\xampp\tmp\phpE04E.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => skt1.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php3B6A.tmp
+            [error] => 0
+            [size] => 1828434
+        )
+
+)
+C:\xampp\tmp\php3B6A.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => skt.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php5F39.tmp
+            [error] => 0
+            [size] => 1842035
+        )
+
+)
+C:\xampp\tmp\php5F39.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => skt.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php7418.tmp
+            [error] => 0
+            [size] => 1842035
+        )
+
+)
+C:\xampp\tmp\php7418.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => obama.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php3030.tmp
+            [error] => 0
+            [size] => 7668
+        )
+
+)
+C:\xampp\tmp\php3030.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => skt1.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php9E64.tmp
+            [error] => 0
+            [size] => 1828434
+        )
+
+)
+C:\xampp\tmp\php9E64.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => try.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php289.tmp
+            [error] => 0
+            [size] => 66088
+        )
+
+)
+C:\xampp\tmp\php289.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+Error2Array
+(
+    [file-upload] => Array
+        (
+            [name] => skt.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpA836.tmp
+            [error] => 0
+            [size] => 1842035
+        )
+
+)
+C:\xampp\tmp\phpA836.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => skt1.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpA67D.tmp
+            [error] => 0
+            [size] => 1828434
+        )
+
+)
+C:\xampp\tmp\phpA67D.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => skt.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpE9BC.tmp
+            [error] => 0
+            [size] => 1842035
+        )
+
+)
+C:\xampp\tmp\phpE9BC.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => skt.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php41DF.tmp
+            [error] => 0
+            [size] => 1842035
+        )
+
+)
+C:\xampp\tmp\php41DF.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => skt1.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php6B5D.tmp
+            [error] => 0
+            [size] => 1828434
+        )
+
+)
+C:\xampp\tmp\php6B5D.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => skt.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php79C0.tmp
+            [error] => 0
+            [size] => 1842035
+        )
+
+)
+C:\xampp\tmp\php79C0.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => obama.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpDEB0.tmp
+            [error] => 0
+            [size] => 7668
+        )
+
+)
+C:\xampp\tmp\phpDEB0.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => skt.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php36B.tmp
+            [error] => 0
+            [size] => 1842035
+        )
+
+)
+C:\xampp\tmp\php36B.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => skt1.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpD478.tmp
+            [error] => 0
+            [size] => 1828434
+        )
+
+)
+C:\xampp\tmp\phpD478.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => obama.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpA6BE.tmp
+            [error] => 0
+            [size] => 7668
+        )
+
+)
+C:\xampp\tmp\phpA6BE.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => try.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php6607.tmp
+            [error] => 0
+            [size] => 66088
+        )
+
+)
+C:\xampp\tmp\php6607.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => skt.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php210B.tmp
+            [error] => 0
+            [size] => 1842035
+        )
+
+)
+C:\xampp\tmp\php210B.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => obama.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php43D2.tmp
+            [error] => 0
+            [size] => 7668
+        )
+
+)
+C:\xampp\tmp\php43D2.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => obama.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpF3D9.tmp
+            [error] => 0
+            [size] => 7668
+        )
+
+)
+C:\xampp\tmp\phpF3D9.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => modi_obama.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php321C.tmp
+            [error] => 0
+            [size] => 52946
+        )
+
+)
+C:\xampp\tmp\php321C.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => try.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpE5EC.tmp
+            [error] => 0
+            [size] => 66088
+        )
+
+)
+C:\xampp\tmp\phpE5EC.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => skt.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php565A.tmp
+            [error] => 0
+            [size] => 1842035
+        )
+
+)
+C:\xampp\tmp\php565A.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => modi_obama.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php2AC2.tmp
+            [error] => 0
+            [size] => 52946
+        )
+
+)
+C:\xampp\tmp\php2AC2.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => obama.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php9D82.tmp
+            [error] => 0
+            [size] => 7668
+        )
+
+)
+C:\xampp\tmp\php9D82.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => obama.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpD7BE.tmp
+            [error] => 0
+            [size] => 7668
+        )
+
+)
+C:\xampp\tmp\phpD7BE.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => obama.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php892D.tmp
+            [error] => 0
+            [size] => 7668
+        )
+
+)
+C:\xampp\tmp\php892D.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => skt.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpF565.tmp
+            [error] => 0
+            [size] => 1842035
+        )
+
+)
+C:\xampp\tmp\phpF565.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => obama.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php3270.tmp
+            [error] => 0
+            [size] => 7668
+        )
+
+)
+C:\xampp\tmp\php3270.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => try.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpAA4C.tmp
+            [error] => 0
+            [size] => 66088
+        )
+
+)
+C:\xampp\tmp\phpAA4C.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => obama.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php6E2E.tmp
+            [error] => 0
+            [size] => 7668
+        )
+
+)
+C:\xampp\tmp\php6E2E.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => modi.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php29F.tmp
+            [error] => 0
+            [size] => 1236333
+        )
+
+)
+C:\xampp\tmp\php29F.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => modi.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php83CD.tmp
+            [error] => 0
+            [size] => 1236333
+        )
+
+)
+C:\xampp\tmp\php83CD.tmpArray
+(
+    [file-upload] => Array
+        (
+            [name] => obama.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php7954.tmp
+            [error] => 0
+            [size] => 7668
+        )
+
+)
+C:\xampp\tmp\php7954.tmp
